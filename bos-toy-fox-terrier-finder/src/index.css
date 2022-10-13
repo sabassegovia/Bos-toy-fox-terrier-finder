@@ -43,7 +43,7 @@ max-width: 60%;
   margin: auto;
   text-align:center;
   width:50%;
-  /* border: 5px solid black; */
+  border: 5px solid #1a37ac;
 }
 .theguy {
   color: #1a37ac;
