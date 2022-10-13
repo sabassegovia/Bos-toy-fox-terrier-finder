@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bos-toy-fox-terrier-finder/static/css/main.d1b6f0f6.css",
-    "main.js": "/bos-toy-fox-terrier-finder/static/js/main.31b00705.js",
+    "main.css": "/bos-toy-fox-terrier-finder/static/css/main.41d3b548.css",
+    "main.js": "/bos-toy-fox-terrier-finder/static/js/main.6b7fdf74.js",
     "static/media/TFT-header.png": "/bos-toy-fox-terrier-finder/static/media/TFT-header.8be4e3da2d03ac020ae8.png",
     "index.html": "/bos-toy-fox-terrier-finder/index.html",
-    "main.d1b6f0f6.css.map": "/bos-toy-fox-terrier-finder/static/css/main.d1b6f0f6.css.map",
-    "main.31b00705.js.map": "/bos-toy-fox-terrier-finder/static/js/main.31b00705.js.map"
+    "main.41d3b548.css.map": "/bos-toy-fox-terrier-finder/static/css/main.41d3b548.css.map",
+    "main.6b7fdf74.js.map": "/bos-toy-fox-terrier-finder/static/js/main.6b7fdf74.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1b6f0f6.css",
-    "static/js/main.31b00705.js"
+    "static/css/main.41d3b548.css",
+    "static/js/main.6b7fdf74.js"
   ]
 }
