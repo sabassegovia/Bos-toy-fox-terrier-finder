@@ -6,7 +6,7 @@ const Navbar = () => {
     <header>
       <div className="container">
         <Link to="/">
-          <h1>Bo's Toy Fox Terrier Search</h1>
+          <h3>Bo's Toy Fox Terrier Search</h3>
         </Link>
         <Link to='/about'>
           <img src={tftPhoto} alt="Logo" />

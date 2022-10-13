@@ -20,19 +20,30 @@ header .container {
   padding: 10px 20px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  justify-content: space-evenly
 }
 header a {
   color: rgb(255, 255, 255);
   text-decoration: none;
 }
 header img {
-padding-right: 40px;
 height: auto;
-width: 150px;
+width: 50%;
 }
 .pages{
   max-width: 1400px;
   padding: 20px;
   margin: 0 auto;
+}
+.about {
+  margin: auto;
+  text-align:center;
+  width:50%
+}
+.about h1 {
+  padding-right: 80px;
+}
+.theguy {
+  color: #1a37ac;
 }
