@@ -14,14 +14,17 @@ header {
   background: rgb(23, 21, 172);
 
 }
+img {
+  max-width: 40%;
+  max-height: 70%;
+}
 header .container {
   max-width: 1400px;
   margin: 0 auto;
   padding: 10px 20px;
   display: flex;
-  align-items: center;
-  /* justify-content: space-between; */
-  justify-content: space-evenly
+  align-items:center;
+  justify-content: space-evenly;
 }
 header a {
   color: rgb(255, 255, 255);
@@ -29,7 +32,7 @@ header a {
 }
 header img {
 height: auto;
-width: 50%;
+max-width: 60%;
 }
 .pages{
   max-width: 1400px;
@@ -39,10 +42,8 @@ width: 50%;
 .about {
   margin: auto;
   text-align:center;
-  width:50%
-}
-.about h1 {
-  padding-right: 80px;
+  width:50%;
+  /* border: 5px solid black; */
 }
 .theguy {
   color: #1a37ac;
