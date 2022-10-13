@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bos-toy-fox-terrier-finder/static/css/main.d1b6f0f6.css",
+    "main.js": "/Bos-toy-fox-terrier-finder/static/js/main.02b93938.js",
+    "static/media/TFT-header.png": "/Bos-toy-fox-terrier-finder/static/media/TFT-header.8be4e3da2d03ac020ae8.png",
+    "index.html": "/Bos-toy-fox-terrier-finder/index.html",
+    "main.d1b6f0f6.css.map": "/Bos-toy-fox-terrier-finder/static/css/main.d1b6f0f6.css.map",
+    "main.02b93938.js.map": "/Bos-toy-fox-terrier-finder/static/js/main.02b93938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b6f0f6.css",
+    "static/js/main.02b93938.js"
+  ]
+}
